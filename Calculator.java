@@ -24,4 +24,6 @@ public class Calculator implements Supplier {
     public Supplier get() {
         return instance;
     }
+
+
 }
